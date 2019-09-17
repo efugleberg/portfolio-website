@@ -34,6 +34,7 @@
 				margin: (_size(element-margin) * 2) 0 _size(element-margin) 0;
 				padding: _size(element-margin) 0 0 0;
 				width: 100%;
+				align-content: center;
 
 				li {
 					border-left: solid 2px _palette(border);
